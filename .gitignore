@@ -1,0 +1,18 @@
+# .NET build & publish artifacts
+bin/
+obj/
+publish/
+*.user
+*.suo
+appsettings.Development.json
+
+# Node / React artifacts
+node_modules/
+dist/
+.env
+.env.local
+
+# OS & Editor files
+.vs/
+.vscode/
+.DS_Store
